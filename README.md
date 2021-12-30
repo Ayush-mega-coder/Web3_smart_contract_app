@@ -1,13 +1,6 @@
-## Running React on Repl.it
+## Building a Web3 App with Solidity + Ethereum Smart Contract
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+building a website where anyone on the internet can learn a little about who you are and send you a 👋 + a message and have that data saved on the blockchain through an Ethereum smart contract. (A smart contract is basically code that lives on the blockchain you can read and write from).
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+writing + deploying the smart contract and building the website that will let people actually connect their wallets and interact with your smart contract.
+when someone waves at you there is a random chance they can win a small amount of ETH from your site :).
